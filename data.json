@@ -1,0 +1,62 @@
+{
+    "lessons": [
+        {
+            "id": 1,
+            "title": "Intervention / Form Time",
+            "start": "08:30",
+            "end": "08:55",
+            "serialized": "08:30-08:55"
+        },
+        {
+            "id": 2,
+            "title": "Period 1",
+            "start": "08:55",
+            "end": "10:00",
+            "serialized": "08:55-10:00"
+        },
+        {
+            "id": 3,
+            "title": "Period 2",
+            "start": "10:00",
+            "end": "11:05",
+            "serialized": "10:00-11:05"
+        },
+        {
+            "id": 4,
+            "title": "Break",
+            "start": "11:05",
+            "end": "11:25",
+            "serialized": "11:05-11:25"
+        },
+        {
+            "id": 5,
+            "title": "Period 3",
+            "start": "11:25",
+            "end": "12:30",
+            "serialized": "11:25-12:30"
+        },
+        {
+            "id": 6,
+            "title": "Period 4",
+            "start": "12:30",
+            "end": "13:35",
+            "serialized": "12:30-13:35"
+        },
+        {
+            "id": 7,
+            "title": "Lunch",
+            "start": "13:35",
+            "end": "14:25",
+            "serialized": "13:35-14:25"
+        },
+        {
+            "id": 8,
+            "title": "Period 5",
+            "start": "14:25",
+            "end": "15:30",
+            "serialized": "14:25-15:30"
+        }
+    ],
+    "timeOnSlides": 10,
+    "_comment^": "This is the time in seconds that each slide will be displayed for"
+}

@@ -1,0 +1,125 @@
+.group-icon {
+    position: absolute;
+    height: 70.55%;
+    width: 38.1%;
+    top: -12.87%;
+    right: 71.02%;
+    bottom: 42.32%;
+    left: -9.11%;
+    max-width: 100%;
+    rotate: -20deg;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: contain;
+    mix-blend-mode: soft-light;
+}
+.p {
+    margin: 0;
+    line-height: 140%;
+}
+.div {
+    position: relative;
+}
+.lesson-1 {
+    position: relative;
+    text-align: right;
+}
+.group {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.frame-child {
+    width: 1526px;
+    position: relative;
+    border-radius: 5px;
+    height: 858px;
+    background-color: black;
+    /* background image should be filled */
+    background-size: cover;
+}
+.frame-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 30px;
+    text-align: left;
+    font-size: 62px;
+}
+.parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+    gap: 54px;
+}
+.slide-169-1-inner {
+    position: absolute;
+    top: 3px;
+    left: 0px;
+    width: 1920px;
+    height: 1077px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 56px;
+    box-sizing: border-box;
+}
+.here-is-an {
+    width: 1071px;
+    position: relative;
+    font-weight: 500;
+    display: inline-block;
+    flex-shrink: 0;
+}
+
+.here-is-an-example-of-captions-wrapper {
+    position: absolute;
+    top: 781px;
+    left: 489px;
+    border-radius: 16px;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 1221px;
+    display: none;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    padding: 30px 60px;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 59px;
+    font-family: Inter;
+}
+.slide-169-1 {
+    width: 100%;
+    position: relative;
+    background-color: #102e5a;
+    height: 1080px;
+    overflow: hidden;
+    text-align: right;
+    font-size: 122px;
+    color: #fff;
+    font-family: 'FFF Forward';
+}
+
+.cache_images {
+    display: none;
+}
+
+@keyframes fadeIn {
+
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+    
+}
