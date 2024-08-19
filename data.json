@@ -5,58 +5,126 @@
             "title": "Intervention / Form Time",
             "start": "08:30",
             "end": "08:55",
-            "serialized": "08:30-08:55"
+            "serialized": "08:30-08:55",
+            "showSlides": true,
+            "showBackground": true,
+            "timeOnly": false
         },
         {
             "id": 2,
             "title": "Period 1",
             "start": "08:55",
             "end": "10:00",
-            "serialized": "08:55-10:00"
+            "serialized": "08:55-10:00",
+            "showSlides": true,
+            "showBackground": true,
+            "timeOnly": false
         },
         {
             "id": 3,
             "title": "Period 2",
             "start": "10:00",
             "end": "11:05",
-            "serialized": "10:00-11:05"
+            "serialized": "10:00-11:05",
+            "showSlides": true,
+            "showBackground": true,
+            "timeOnly": false
         },
         {
             "id": 4,
             "title": "Break",
             "start": "11:05",
             "end": "11:25",
-            "serialized": "11:05-11:25"
+            "serialized": "11:05-11:25",
+            "showSlides": true,
+            "showBackground": true,
+            "timeOnly": false
         },
         {
             "id": 5,
             "title": "Period 3",
             "start": "11:25",
             "end": "12:30",
-            "serialized": "11:25-12:30"
+            "serialized": "11:25-12:30",
+            "showSlides": true,
+            "showBackground": true,
+            "timeOnly": false
         },
         {
             "id": 6,
             "title": "Period 4",
             "start": "12:30",
             "end": "13:35",
-            "serialized": "12:30-13:35"
+            "serialized": "12:30-13:35",
+            "showSlides": true,
+            "showBackground": true,
+            "timeOnly": false
         },
         {
             "id": 7,
             "title": "Lunch",
             "start": "13:35",
             "end": "14:25",
-            "serialized": "13:35-14:25"
+            "serialized": "13:35-14:25",
+            "showSlides": true,
+            "showBackground": true,
+            "timeOnly": false
         },
         {
             "id": 8,
             "title": "Period 5",
             "start": "14:25",
             "end": "15:30",
-            "serialized": "14:25-15:30"
+            "serialized": "14:25-15:30",
+            "showSlides": true,
+            "showBackground": true,
+            "timeOnly": false
+        },
+        {
+            "_comment": "After school",
+            "id": 10,
+            "title": "After School Activities",
+            "start": "15:35",
+            "end": "17:00",
+            "serialized": "15:35-17:00",
+            "showSlides": true,
+            "showBackground": true,
+            "timeOnly": false
+        },
+        {
+            "_comment": "Hides any content and only displays time and date",
+            "id": 10,
+            "title": "",
+            "start": "17:53",
+            "end": "18:54",
+            "serialized": "17:00-23:99",
+            "showSlides": true,
+            "showBackground": true,
+            "timeOnly": true
+        },
+        {
+            "_comment": "Hides any content and only displays time and date",
+            "id": 10,
+            "title": "Testing",
+            "start": "18:55",
+            "end": "19:40",
+            "serialized": "17:00-23:99",
+            "showSlides": true,
+            "showBackground": true,
+            "timeOnly": false
+        },
+        {
+            "_comment": "Hides any content and only displays time and date",
+            "id": 11,
+            "title": "",
+            "start": "00:00",
+            "end": "07:00",
+            "serialized": "00:00-07:00",
+            "showSlides": false,
+            "showBackground": false,
+            "timeOnly": true
         }
     ],
-    "timeOnSlides": 10,
+    "timeOnSlides": 10000,
     "_comment^": "This is the time in seconds that each slide will be displayed for"
 }

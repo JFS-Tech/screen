@@ -123,3 +123,40 @@
     }
     
 }
+
+@keyframes fadeOut {
+    0% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+.timeonly {
+    position: absolute;
+    color: white;
+    font-size: 102px;
+    /* center it */
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-family: 'FFF Forward';
+
+    animation: fadeIn 2s;
+}
+
+.dateonly {
+    /* display at the bottom of the screen */
+    position: absolute;
+    color: #FFFFFF50;
+    font-size: 40px;
+    bottom: 20%;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    font-family: 'FFF Forward';
+
+    animation: fadeIn 2s;
+}
