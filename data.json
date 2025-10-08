@@ -110,7 +110,7 @@
             "end": "19:40",
             "serialized": "17:00-23:99",
             "showSlides": true,
-            "showBackground": true,
+            "showBackground": false,
             "timeOnly": false
         },
         {
